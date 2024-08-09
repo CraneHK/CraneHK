@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CraneHK. I am 2025 Class of The Chinese University of Hong Kong, Shenzhen and hold a IANG visa. 
-- 👀 I’m interested in financial mathematics and macroecnomicies.
+- 👀 I’m interested in financial mathematics and macroeconomics.
 - 🌱 I’m currently learning reinforce learning.
 - 💞️ I’m looking to find jobs in area like financial analysis and modeling.
 - 📫 My email is xuan_crane@163.com.
